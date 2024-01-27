@@ -106,4 +106,21 @@ To get the answer of homework question 3 to 6, you can refer to [homework1.sql](
 
 ## Terraform (Infrastucture as Code)
 
-The variables.tf file location is set to the region nearest to me to ensure lower latency and no multiple region is enabled to save cost
+The variables.tf file location is set to the region nearest to me to ensure lower latency and no multiple region is enabled to save cost.
+
+  - To run initiate terraform for project
+  ```
+  terraform init
+  ```
+  - To execulte plan of terraform: main.tf
+  ```
+  terraform plan
+  ```
+  - To apply to see what service will be initiated in GCP
+  ```
+  terraform apply
+  ```
+  - To destroy allt the resources after getting the job done to save cost
+  ```
+  terraform destroy
+  ```
