@@ -17,4 +17,8 @@ The [DE Zoomcamp cohort 2024](https://github.com/DataTalksClub/data-engineering-
     docker compose build 
     docker compose up
     ```
-  
+* [Module 3: Data Warehouse & Big Query](./module_3_data_warehouse_bigquery) &#127981;
+
+  - Data Warehouse (Big Query) for OLAP
+  - External Table vs Materialized Table
+  - Optimization of Query to increase performance and save cost via partitioning and clustring.
