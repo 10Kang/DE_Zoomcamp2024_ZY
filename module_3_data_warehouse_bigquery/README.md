@@ -6,7 +6,8 @@ The project can be accessed through [week-3 module of DE Zoomcamp 2024](https://
 
 
 ## Data Warehouse and Bigquery &#128295;
- 
+
+![](./image/Learning_note.jpg)
 - Data Warehouse is important for OLAP, useful for business intelligence and data science team. 
 - Big Query is the serverless data warehouse solution.
 - Partitioning and clustering are useful method to cut down the query time, thus saving cost in Big Query.
