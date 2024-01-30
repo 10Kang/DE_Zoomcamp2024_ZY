@@ -31,6 +31,15 @@ The details of setting up the containers can be found in the [github repo of mag
   ![](./images/Module_2_question2.png)
   - There are total of 139370 rows with 21 columns.
 
+### Question 3: Data Transformation
+  - data['lpep_pickup_date'] = data['lpep_pickup_datetime'].dt.date is used to creates a new column lpep_pickup_date by converting lpep_pickup_datetime to a date.
+
+### Question 4: Data Transformation
+  - 2 existing values of VendorID in the dataset (1,2).
+
+### Question 5: Data Transformation
+  - 4 columns need to be renamed to snake case.
+
 ### Question 6: Data Exporting
   - There are 3 blocks to be executed after the transformation.
   - Left block: green_taxi_to_gcp save .csv file to GCS.
