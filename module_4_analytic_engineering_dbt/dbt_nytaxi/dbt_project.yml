@@ -51,3 +51,4 @@ seeds:
 
 vars:
   rateID_values: [1,2,3,4,5,6]
+  is_test_run: false  
