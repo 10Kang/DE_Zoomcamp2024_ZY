@@ -17,6 +17,9 @@ The [DE Zoomcamp cohort 2024](https://github.com/DataTalksClub/data-engineering-
     docker compose build 
     docker compose up
     ```
+    - Checkout the note in medium article by me
+    - [Using Mage as the Workflow Orchestration Tools 🚀](https://medium.com/@kangzhiyong1999/using-mage-as-the-workflow-orchestration-tools-ef7547fb18fc)
+  
 * [Module 3: Data Warehouse & Big Query](./module_3_data_warehouse_bigquery) &#127981;
 
   - Data Warehouse (Big Query) for OLAP
