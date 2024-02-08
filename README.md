@@ -25,6 +25,14 @@ The [DE Zoomcamp cohort 2024](https://github.com/DataTalksClub/data-engineering-
   - Data Warehouse (Big Query) for OLAP
   - External Table vs Materialized Table
   - Optimization of Query to increase performance and save cost via partitioning and clustring.
+  - Checkout the note in medium article by me
+  - [Data Warehouse & BigQuery 🚀](https://medium.com/@kangzhiyong1999/data-warehouse-bigquery-4d4a281943cd)
+
+* [Workshop 1: Data Load Tool (dlt)](./workshop_1_dlt/)
+  - An open-source library that ease the data loading steps for data engineer.
+  - Use generator as the main concept for memory management.
+  - Checkout the note in medium article by me
+  - [Data Ingestion with Data Loads Tool (dlt): Be the Magician in Data Engineering 🚀](https://medium.com/@kangzhiyong1999/data-ingestion-with-data-loads-tool-dlt-be-the-magician-in-data-engineering-44801b3dee87)
 
 * [Module 4: Analytics Engineering with dbt](./module_4_analytic_engineering_dbt/) &#128202;
   
