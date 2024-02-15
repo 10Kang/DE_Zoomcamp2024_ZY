@@ -16,6 +16,7 @@ sources:
         - name: yellow_tripdata
          # freshness:
            # error_after: {count: 6, period: hour}
+        - name: fhv_tripdata
 
 models:
     - name: stg_green_tripdata
@@ -190,3 +191,6 @@ models:
             description: Total amount of all tolls paid in trip.
           - name: Total_amount 
             description: The total amount charged to passengers. Does not include cash tips.
+    - name: fhv_tripdata
+      description: >
+        Dedicated for homework Data Engineering Zoomcamp
