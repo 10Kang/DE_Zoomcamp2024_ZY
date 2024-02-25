@@ -40,3 +40,11 @@ The [DE Zoomcamp cohort 2024](https://github.com/DataTalksClub/data-engineering-
 
   - [What is DBT and how to integrate it with BigQuery ? 🚀](https://medium.com/@kangzhiyong1999/what-is-dbt-and-how-to-integrate-it-with-bigquery-e7b3db7241ef)
   - [From Testing/Documenting of dbt model to deployment in dbt cloud 🚀](https://medium.com/@kangzhiyong1999/from-testing-documenting-of-dbt-model-to-deployment-in-dbt-cloud-a6481c50aa64)
+  
+* [Module 5: Batch Processing](./module_5_batch_processing/) &#128295;
+
+  - Check out the medium article by me below
+
+  - [How to Run Spark on Ubuntu Machine in Google Cloud (PySpark: Basic) 🚀](https://medium.com/@kangzhiyong1999/how-to-run-spark-on-ubuntu-machine-in-google-cloud-pyspark-basic-24e277083d5a)
+  - [Understand the Spark Cluster: Spark DataFrame and Spark SQL with PySpark 🚀](https://medium.com/@kangzhiyong1999/understand-the-spark-cluster-spark-dataframe-and-spark-sql-with-pyspark-efab224fd1e6)
+  - To be continued .....
