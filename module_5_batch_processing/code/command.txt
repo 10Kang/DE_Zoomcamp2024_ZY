@@ -1,0 +1,49 @@
+python spark_sql.py \
+  --input_green=data/pq/green/2020/*/\
+  --input_yellow=data/pq/yellow/2020/*/\
+  --output=data/report-2020
+
+
+# submit standalone
+URL="spark://instance-20240222-020650.asia-southeast1-a.c.de-zoomcamp-412301.internal:7077"
+
+spark-submit \
+  --master "${URL}" \
+  spark_sql.py \
+    --input_green=data/pq/green/2021/*/\
+    --input_yellow=data/pq/yellow/2021/*/\
+    --output=data/report-2021
+
+
+# submit using google dataproc via Web UI
+
+gs://module-5-batch-processing/code/spark_sql.py
+
+--input_green=gs://module-5-batch-processing/pq/green/2021/*/\
+--input_yellow=gs://module-5-batch-processing/pq/yellow/2021/*/\
+--output=gs://module-5-batch-processing/report-2021
+
+# submit via cloud SDK
+gcloud dataproc jobs submit pyspark \
+  --cluster=cluster-zy \
+  --region=us-central1 \
+  gs://module-5-batch-processing/code/spark_sql.py \
+  --  \
+    --input_green=gs://module-5-batch-processing/pq/green/2021/*/\
+    --input_yellow=gs://module-5-batch-processing/pq/yellow/2021/*/\
+    --output=gs://module-5-batch-processing/report-2021
+      
+
+# submit and write directly to bigquery
+gcloud dataproc jobs submit pyspark \
+  --cluster=cluster-zy \
+  --region=us-central1 \
+  --jars=gs://spark-lib/bigquery/spark-bigquery-latest_2.12.jar \
+  gs://module-5-batch-processing/code/spark_sql_to_bigquery.py \
+  --  \
+    --input_green=gs://module-5-batch-processing/pq/green/2021/*/\
+    --input_yellow=gs://module-5-batch-processing/pq/yellow/2021/*/\
+    --output=trips_data_all.reports-2020
+      
+# copy file from compute engine to my local machine
+scp -i ~/.ssh/gcp-compute 4oceanknowledges@34.126.139.100:/home/4oceanknowledges/notebook/*py /Users/kang/Documents/DE_zoomcamp/module_5_batch_processing/code/
