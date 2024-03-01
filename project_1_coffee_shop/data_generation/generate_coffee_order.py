@@ -5,9 +5,6 @@ import pandas as pd
 import random
 import argparse
 
-outlet_id_list = pd.read_csv('/Users/kang/Documents/DE_zoomcamp/project_1_coffee_shop/data/outlet_address.csv')['outlet_id'].tolist()
-product_id_list = pd.read_csv('/Users/kang/Documents/DE_zoomcamp/project_1_coffee_shop/data/product.csv')['product_id'].tolist()
-customer_id_list = pd.read_csv('/Users/kang/Documents/DE_zoomcamp/project_1_coffee_shop/data/customer_data_2024-02-24.csv')['customer_id'].tolist()
 
 class CustomProvider(BaseProvider):
     def invoice_number(self):
@@ -18,7 +15,11 @@ class CustomProvider(BaseProvider):
 start_date = datetime(2018, 1, 1)
 end_date = datetime(2022, 12, 31)
 
-def generate_sales(number,seed):
+def generate_sales(number,seed,outlet_id_path,product_id_path,customer_id_path):
+
+    outlet_id_list = pd.read_csv(outlet_id_path)['outlet_id'].tolist()
+    product_id_list = pd.read_csv(product_id_path)['product_id'].tolist()
+    customer_id_list = pd.read_csv(customer_id_path)['customer_id'].tolist()
 
     number = int(number)
     seed = int(seed)
@@ -57,7 +58,11 @@ def generate_sales(number,seed):
 
 
 def main(params):
-    
+
+    outlet_id_path = params.outlet_id_path
+    product_id_path= params.product_id_path
+    customer_id_path= params.customer_id_path
+
     seed = params.seed
     number = params.number
     output = params.output
@@ -72,7 +77,7 @@ def main(params):
     # filepath to save file 
     filepath = f'{output}_sales_data_{date_string}.csv'
 
-    df = generate_sales(number,seed)
+    df = generate_sales(number,seed,outlet_id_path,product_id_path,customer_id_path)
 
     df.to_csv(filepath)
 
@@ -84,6 +89,9 @@ if __name__ == "__main__":
     parser.add_argument('--output', help='Path to the output file',required=True)
     parser.add_argument('--number', help='Number of new customer',required=True)
     parser.add_argument('--seed', help='seed to ensure not replicate',required=True)
+    parser.add_argument('--outlet_id_path', help='path to outlet.csv',required=True)
+    parser.add_argument('--product_id_path', help='path to product.csv',required=True)
+    parser.add_argument('--customer_id_path', help='path to customer.csv',required=True)
     parser.add_argument('--date_string','-o', help='date of generating the new customer')
     
     # Parse the command-line arguments
