@@ -1,0 +1,82 @@
+version: 2
+
+sources:
+    - name: staging
+      #For bigquery:
+      database: de-zoomcamp-412301
+
+      # For postgres:
+      #database: production
+
+      schema: malaysian_coffee_chain
+
+      # loaded_at_field: record_loaded_at
+      tables:
+        - name: customer
+        - name: sales
+         # freshness:
+           # error_after: {count: 6, period: hour}
+
+models:
+    - name: stg_customer
+      description: >
+        customer information of malaysian malaysian coffeee chain 
+      columns:
+          - name: customer_id 
+            description: Primary key for this table, uuid14 key generated automatically from the app
+            tests:
+                - unique:
+                    severity: warn
+                - not_null:
+                    severity: warn
+          - name: first_name 
+            description: first name of the customer
+          - name: last_name  
+            description: last name of the customer
+          - name: gender 
+            description: gender of customer, either be Female or Male
+          - name: birthday 
+            description: birthday of customer. Could be useful for role out of promotion 
+          - name: email 
+            description: email of customer
+          - name: phone_no
+            description: phone number of customer 
+          - name: age
+            description: age of the customer from birthday 
+
+    - name: stg_sales
+      description: > 
+        Coffee chain sales for all the outlets
+      columns:
+          - name: invoice no
+            description: Primary key for this table, generated with python script
+            tests:
+                - unique:
+                    severity: warn
+                - not_null:
+                    severity: warn
+          - name: date_time 
+            description: the data and time the purchase was made
+          - name: customer_id 
+            description: customer_id who make the purchase
+            tests:
+              - relationships:
+                  field: customer_id
+                  to: ref('stg_customer')
+          - name: outlet
+            description: Outlet id where the purchase was made.
+            tests:
+              - relationships:
+                  field: outlet_id
+                  to: ref('outlet')
+          - name: product 
+            description: product purchased
+            tests:
+              - relationships:
+                  field: product_id
+                  to: ref('product')
+          - name: quantitiy
+            description: quantity of products sold
+          - name: month
+            description: month of the purchased made
+            

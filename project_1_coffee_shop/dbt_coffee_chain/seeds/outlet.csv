@@ -1,0 +1,273 @@
+outlet_id,outlet_name,outlet_address,outlet_state,postcode,district
+MY001,ZUS Coffee – Pekan Ayer Tawar,"No.35 (GF), Jalan Besar, 32400, Ayer Tawar, Perak.",perak,32400,Ayer Tawar
+MY002,ZUS Coffee – Canning II Ipoh,"No. 29 (GF), Hala Pusat Perdagangan Canning 1, Pusat Perdagangan Canning II, 30350 Ipoh, Perak.",perak,30350,Ipoh
+MY003,ZUS Coffee – Taman Lumut Indah 2,"No. 10 (Ground Floor), Jalan Lumut Indah 2/1, Taman Lumut Indah 2, 32200 Lumut, Perak.",perak,32200,Lumut
+MY004,ZUS Coffee – Silverlakes Village,"N3-41. North Village. Silverlakes Village Outlet Kinta Valley, 31000 Batu Gajah, Perak.",perak,31000,Batu Gajah
+MY005,ZUS Coffee – Ipoh Sunway City,"No.4 (Ground Floor), Jalan Darul Johan Batu 5, Sunway City, 31400 Tambun, Perak",perak,31400,Tambun
+MY006,ZUS Coffee – Caltex Selama,"Lot 5863, Jalan Sir Chulan, 34100, Selama, Perak",perak,34100,Selama
+MY008,ZUS Coffee – Sungai Siput,"No 12, Ground Floor, Persiaran Pesona 1, Medan Pesona, 31100 Sungai Siput, Perak Darul Ridzuan.",perak,31100,Sungai Siput
+MY009,ZUS Coffee – Slim River,"No 90-A, Jalan Perdana 5, Pusat Perniagaan Slim Perdana, 35800 Slim River, Perak Darul Ridzuan.",perak,35800,Slim River
+MY010,ZUS Coffee – AEON Mall Seri Manjung,"Lot G039 & G40, Pusat Perniagaan, Jalan Manjung Point 3, 32040 Seri Manjung, Perak.",perak,32040,Seri Manjung
+MY011,ZUS Coffee – AEON Mall Kinta City,"Lot F65, Jalan Sultan Azlan Shah, Bandar Baru Medan Ipoh, 31400 Ipoh, Perak.",perak,31400,Ipoh
+MY012,ZUS Coffee – AEON Mall Ipoh Station 18,"Lot KS2. No.2, Susunan Stesen 18, Station 18, 31650 Ipoh, Perak.",perak,31650,Ipoh
+MY013,ZUS Coffee – Ipoh Parade,"Unit G03, Ipoh Parade Mall, 105, Jalan Sultan Abdul Jalil, Pusat Perdagangan Greentown, 30450 Ipoh, Perak.",perak,30450,Ipoh
+MY014,ZUS Coffee – Pejabat Pos Besar Ipoh,"Pejabat Pos Besar Ipoh. JKR 5120, Jalan Kelab, 30670 Ipoh, Perak.",perak,30670,Ipoh
+MY015,ZUS Coffee – Taiping Mall,"Lot G-02, Ground Floor, Taiping Mall, Jalan Tupai, 34000 Taiping Perak Darul Ridzuan",perak,34000,Ipoh
+MY016,ZUS Coffee – AEON Mall Ipoh Klebang,"G21, Ground Floor, AEON Mall Ipoh Klebang, Laluan Klebang Restu 40, 31200 Chemor, Perak",perak,31200,Chemor
+MY017,ZUS Coffee – Meru Raya,"No 14 (Ground Floor), Jalan Meru Bestari B2, Medan Meru Bestari, 30020 Ipoh, Perak Darul Ridzuan",perak,30020,Ipoh
+MY018,"SERI ISKANDAR, PERAK","No 25 (Ground Floor), Persiaran SIBC 2, Business Centre, 31620 Seri Iskandar, Perak",perak,31620,Seri Iskandar
+MY019,"IPOH SOUTHGATE, PERAK","No 13 (Ground Floor), Jalan Pulai Hartamas 1, Medan Pulai Hartamas, 31300 Ipoh, Perak",perak,31300,Ipoh
+MY020,KUALA KANGSAR,"No 4D (Ground Floor), Jalan Raja Chulan, 33000 Kuala Kangsar, Perak",perak,33000,Kuala Kangsar
+MY021,TAIPING PEKELILING,"No. 8 & 10, Off, Jalan Pekeliling, Taman Tasik Commercial Centre, 34000 Taiping, Perak",perak,34000,Taiping
+MY022,KAMPAR,"2234, Ground Floor, Jalan Batu Sinar, Taman Bandar Baru, 31900 Kampar, Perak",perak,31900,Kampar
+MY023,TANJUNG MALIM,"No 24A (Ground Floor, Jalan Taman Sri Indah, Taman Sri Indah Utama, 35900 Tanjong Malim, Perak",perak,35900,Tanjong Malim
+MY024,BATU GAJAH PERDANA,"No 1 (Ground Floor), Persiaran BG Perdana 1, Pusat Komersial BG Perdana, 31000 Batu Gajah, Perak",perak,31000,Batu Gajah
+MY025,"SERI MANJUNG, SITIAWAN","29, Jalan PPMP 3/1, 32040 Seri Manjung, Perak",perak,32040,Seri Manjung
+MY026,BANDAR BARU TELUK INTAN,"7, Ground Floor, Jalan Intan 1, Bandar Baru Teluk Intan, 36000 Teluk Intan, Perak",perak,36000,Teluk Intan
+MY027,PARIT BUNTAR,"No. 38, Ground Floor, Jalan Wawasan 4, Taman Wawasan Jaya, 34200 Parit Buntar, Perak",perak,34200,Parit Buntar
+MY028,TAIPING KAMUNTING,"51, Jalan Medan Saujana, Medan Saujana, 34600 Kamunting, Perak",perak,34600,Kamunting
+MY029,IPOH PENGKALAN STATION 18,"34, Jalan Pengkalan Putra 1, Pusat Perniagaan Pengkalan Putra, 31650 Ipoh, Perak",perak,31650,Ipoh
+MY030,IPOH BOND SQUARE,"11, Ground Floor, Jalan Niaga Simee 1, Pusat Perniagaan Simee (Bond Square), 31400 Ipoh, Perak",perak,31400,Ipoh
+MY031,ZUS Coffee – Angsana Johor Bahru,"Lot 1.22, First Floor, Angsana Johor Bahru Mall, Skudai Lbh, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor",johor,81200,Johor Bahru
+MY032,ZUS Coffee – Tangkak Johor,"No. 131 (Ground Floor), Jalan Muar, 84900 Tangkak Johor",johor,84900,Tangkak
+MY033,ZUS Coffee – Sutera Mall,"L2-550k, Sutera Mall, Jalan Sutera Tanjung 8/4, 81300 Skudai, Johor",johor,81300,Skudai
+MY034,ZUS Coffee – Lotus’s Kluang,"G7. Lotus’s Kluang, H.S(D) 63272, PTD 78094, Mukim Kluang, Daerah Kluang, 86000 Johor.",johor,63272,PTD 78094
+MY035,Zus Coffee – DT Shell Pulai Perdana,"PTD 105042, Jalan Skudai-Pontian, Kangkar Pulai, 81300 Skudai, Johor",johor,81300,Skudai
+MY036,ZUS Coffee – Wetex Parade,"Lot G13 & G13A, Wetex Parade, No. 69, Jalan Ali, 84000 Muar, Johor",johor,84000,Muar
+MY037,ZUS Coffee – Johor Bukit Gambir Tangkak,"No. 16 (Ground Floor), Jalan Gambir 5A, Bandar Baru Bukit Gambir, 84800 Tangkak, Johor",johor,84800,Tangkak
+MY038,ZUS Coffee – AEON Mall Bukit Indah,"AEON Mall Bukit Indah. G07A, Ground Floor, Grand Mezzanine, 8, Jalan Indah 15/2, Taman Bukit Indah, 81200 Johor Bahru, Johor.",johor,81200,Johor Bahru
+MY039,ZUS Coffee – Segamat Central,"Lot G-11, Jalan Kolam Air, 85000 Segamat, Johor Darul Takzim",johor,85000,Segamat
+MY040,ZUS Coffee – Yong Peng,"No.4 (Ground floor), Jalan Cahaya Baru, Taman Bandar Cahaya Baru, 83700 Yong Peng, Johor",johor,83700,Yong Peng
+MY041,ZUS Coffee – Nusa Bestari,"2 (Ground floor) , Jalan Bestari 6/2, Taman Nusa Bestari , 81300 Skudai , Johor.",johor,81300,Skudai 
+MY042,ZUS Coffee – The Mall Mid Valley Southkey,"Lot LGK-16, Mid Valley Southkey, No. 1 Persiaran Southkey 1, 80150 Johor Bahru",johor,80150,Johor Bahru
+MY043,ZUS Coffee – Paradigm Mall JB,"Lot 4FK-35, Paradigm Mall, Jalan Skudai Lbh, 81200, Johor.",johor,81200,Taman Perling
+MY044,ZUS Coffee – Labis,"No 114, Jalan Segamat, Taman Bintang Jaya, 85300 Labis, Johor.",johor,85300,Labis
+MY045,ZUS Coffee – Bandar Seri Alam,"No 5 (Ground floor), Jalan Suria 3, Bandar Seri Alam, 81750 Masai, Johor",johor,81750,Masai
+MY046,ZUS Coffee – Desa Cemerlang,"No.49, Jalan Tanjong 2, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor.",johor,81800,Ulu Tiram
+MY047,ZUS Coffee – Parit Raja,"No 20 (Ground Floor), Jalan Universiti 1, Taman Universiti, 86400 Parit Raja, Johor Darul Takzim.",johor,86400,Parit Raja
+MY048,"ZUS Coffee – 68 Degree Avenue, Johor","No 15 (Ground Floor), Jalan Suria 2, Pusat Komersial Suria, 81550 Gelang Patah, Johor.",johor,81550,Gelang Patah
+MY049,ZUS Coffee – AEON Mall Tebrau City,"FK2, First Floor, Aeon Tebrau City Shopping Centre, 3, Persiaran Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru",johor,81100,Johor Bahru
+MY050,"PERMAS JAYA, JOHOR","No 28 (Ground Floor), Jln Permas 10, Bandar Baru Permas Jaya, 81750 Masai, Johor",johor,81750,Masai
+MY051,"TOPPEN SHOPPING CENTRE, JOHOR","Lot L1.K03A Toppen Shopping Centre, Taman Desa Tebrau, 81100 Johor Bahru, Johor",johor,81100,Johor Bahru
+MY052,"SUTERA MALL, JOHOR","Sutera Mall, L2-550k, Jalan Sutera Tanjung 8/4, 81300 Skudai, Johor",johor,81300,Skudai
+MY053,"JALAN MOLEK, JOHOR","No 55 (Ground Floor, Jalan Molek 1/29, Taman Molek, 81100 Johor Bahru, Johor",johor,81100,Johor Bahru
+MY054,BANDAR INDAHPURA KULAI,"No 221 (Ground Floor) Jalan Kiambang 14, Pusat Komersial Indah, Bandar Indahpura, 81000 Kulai, Johor",johor,81000,Kulai
+MY055,"WATSONS TD SENTRAL, TAMAN DAYA","Ground Floor, No. 6C, Jalan Sagu 18, Taman Daya, 81100 Johor Bahru, Johor",johor,81100,Johor Bahru
+MY056,SEGAMAT GENUANG,"26G, Jalan Genuang Perdana, Bandar Segamat Baru, 85000 Segamat, Johor",johor,85000,Segamat
+MY057,ADDA HEIGHT,"No.20 (GF) Jalan Adda 7, 81100 Johor Bahru, Johor",johor,81100,Johor Bahru
+MY058,KOTA TINGGI,"No. 36G, Jalan Jaffar, 81900 Kota Tinggi, Johor",johor,81900,Kota Tinggi
+MY059,MERSING,"No. 16G, Jalan Abu Bakar, Mersing 86800, Johor",johor,86800,Mersing
+MY060,JOHOR ECO BOTANIC,"No. 50 G, Jalan Eko Botani 3/2, Taman Eko Botani, 79100 Iskandar Puteri, Johor",johor,79100,Iskandar Puteri
+MY061,KEBUN TEH,"No.4G, Jalan Kebun Teh 2, Taman Kebun Teh, 80250 Johor Bahru, Johor",johor,80250,Johor Bahru
+MY062,PONTIAN KOTA EMAS,"70-G, Jalan Emas 2, Pusat Perniagaan Kota Emas 82000 Pontian, Johor",johor,82000,Pontian
+MY063,SUNGAI RENGIT (DESARU),"88-01, Jalan Hee Seng, Sungai Rengit, 81620 Pengerang, Johor",johor,81620,Pengerang
+MY064,BUKIT TIRAM,"No. 13G, Jalan Ledang 25, Taman Bukit Tiram, 81800 Ulu Tiram, Johor",johor,81800,Ulu Tiram
+MY065,SETIA TROPIKA,"No. 45, Jalan Setia Tropika 1/15, Taman Setia Tropika, 81200 Johor Bahru, Johor",johor,81200,Johor Bahru
+MY066,BANDAR BARU UDA,"No. 11G, Jalan Padi Emas 1/4, Bandar Baru Uda, 81200 Johor Bahru, Johor",johor,81200,Johor Bahru
+MY067,TAMAN UNIVERSITI,"8, Jalan Pendidikan 8, Taman Universiti 81300 Skudai, Johor",johor,81300,Skudai
+MY068,KLUANG VERSI BOULEVARD,"11, Ground Floor, Jalan Duku 86000 Kluang, Johor",johor,86000,Kluang
+MY069,PEKAN NANAS,"101, Ground Floor, Jalan Industri 8, Taman Perindustrian Pekan Nanas 81500 Johor",johor,81500,Pekan Nanas
+MY070,KOTA MASAI JOHOR,"3, Jalan Ekoperniagaan 9, Taman Kota Masai 81700 Pasir Gudang, Johor",johor,81700,Pasir Gudang
+MY071,BATU PAHAT,"17, Jalan Rotan Utama, Taman Sri Jaya 83000 Batu Pahat Johor",johor,83000,Batu Pahat
+MY072,MUAR BAKRI,29-27 (BHU) Jalan Pesta ½ Taman Kampung Kenangan Tun Dr Ismail 84000 Muar Johor,johor,84000,Muar
+MY073,MOUNT AUSTIN,"65, Jalan Mutiara Emas 2A, Taman Mount Austin, 81100 Johor Bahru",johor,81100,Johor Bahru
+MY074,"ZUS Coffee – Klebang, Melaka","40, Ground Floor, Jalan Nirwana 2, Taman Nirwana, Batang Tiga, 76400, Melaka",melaka,76400,Tanjung Kling
+MY075,"ZUS Coffee – Bukit Rambai, Melaka","No 47, Jalan Rambai Jaya 29, Taman Rambai Jaya 75260 Melaka",melaka,75260,Ayer Selas
+MY076,ZUS Coffee – Alor Gajah,"KM 12-1 (Ground Floor), Jalan Perniagaan Jelatang 1, Pusat Perniagaan Jelatang, 78000 Alor Gajah, Melaka",melaka,78000,Alor Gajah
+MY077,ZUS Coffee – Mahkota Parade,"Lot KF10D, First Floor, Mahkota Parade, 1, Jln Merdeka, 75000 Malacca",melaka,75000,Dataran Pahlawan
+MY078,ZUS Coffee – Jonker Street,"No 38, Jalan Hang Jebat, 75200, Melaka",melaka,75200,Balik Buloh
+MY079,ZUS Coffee – AEON Mall Ayer Keroh Melaka,"G-37, Ground Floor, Aeon Mall Melaka Ayer Keroh, alan Tun Abdul Razak, 75450 Melaka",melaka,75450,Ayer Keroh
+MY080,ZUS Coffee – AEON Mall Bandaraya Melaka,"Lot G-09, Ground Floor, AEON Mall Bandaraya Melaka Shopping Centre, 2, Jalan Lagenda 2, Taman 1 Lagenda, 75400 Melaka",melaka,75400,Bukit Peringgit
+MY081,ZUS Coffee – MITC Melaka,"No.41, Ground Floor, Jalan Komersial, Taman Kota Fesyen MITC, 75450, Ayer Keroh, Melaka",melaka,75450,Ayer Keroh
+MY082,ZUS Coffee – Merlimau,"JC 23, Ground Floor, Jalan BMU 1, Bandar Baru Merlimau Utara, 77300, Merlimau, Melaka",melaka,77300,Merlimau
+MY083,ZUS Coffee – Kuala Sungai Baru,"SI 15, Ground Floor, Jalan Sungai Baru Ilir Jaya Utama, Taman Sungai Baru Ilir Jaya, 78300 Masjid Tanah, Melaka.",melaka,78300,Masjid Tanah
+MY084,ZUS Coffee – Melaka Taman Merdeka,"No 39 (Ground Floor), Jalan Merdeka 1, Taman Merdeka, Hang Tuah Jaya, 75350 Batu Berendam, Melaka.",melaka,75350,Batu Berendam
+MY085,ZUS Coffee – Bandar Utama Cheng,"No 17 (Ground Floor), Jalan Inang 1, Taman Paya Rumput Utama, 76450 Melaka.",melaka,76450,Paya Rumput Hilir
+MY086,ZUS Coffee – ElementX @ Hatten City,"G13, Ground Floor, ElementX @ Hatten City, Jalan Melaka Raya, 23, Taman Melaka Raya, 75000 Melaka",melaka,75000,Dataran Pahlawan
+MY087,ZUS Coffee – Sungai Udang,"No 24 (Ground Floor), Jalan Kerambit 4, Bandar Baru Sungai Udang, 76300 Sungai Udang, Melaka.",melaka,76300,Sungai Udang
+MY088,"DATARAN PAHLAWAN, MELAKA","B-001(B) Dataran Pahlawan Melaka Megamall, Jln Merdeka, Bandar Hilir, 75000, Melaka",melaka,75000,Dataran Pahlawan
+MY089,"FREEPORT A’FAMOSA, MELAKA","Freeport A’Famosa Outlet, Lot 28, Jalan Kemus, Simpang Ampat, 78000 Alor Gajah, Melaka",melaka,78000,Alor Gajah
+MY090,"JASIN BESTARI, MELAKA","Ground Floor, JC 548, Jln Bestari 5, Bandar Jasin Bestari, 77200 Bemban, Melaka",melaka,77200,Bemban
+MY091,"MASJID TANAH, MELAKA","SU 1443 (Ground Floor), Jalan Masjid Tanah Ria Utama, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka",melaka,78300,Masjid Tanah
+MY092,BUKIT BARU,"Pusat Niaga, No 4 (Ground Floor) Jalan PNBBU 3, Bukit Baru, Bukit Baru Utama, 75150 Bukit Baru, Melaka",melaka,75150,Bukit Baru
+MY093,AYER KEROH,"No.25, GF, Jalan Komersial TAKH 2, Taman Ayer Keroh Heights, Ayer Keroh, 75450 Hang Tuah Jaya Melaka",melaka,75450,Ayer Keroh
+MY094,PLAZA PANDAN MALIM,"15, Jalan PPM 8, Plaza Pandan Malim, 75250 Melaka",melaka,75250,Bachang
+MY095,MELAKA KOTA LAKSAMANA,"59, Jalan KLJ 6, Taman Kota Laksamana Jaya, 75200 Melaka",melaka,75200,Balik Buloh
+MY096,"ZUS Coffee – Pengkalan Asam, Kangar","Lot No. 318, Ground Floor, Jalan Kangar-Alor Setar, Taman Mutiara, 01000 Kangar, Perlis",perlis,01000,Kangar
+MY097,ZUS Coffee – Subang Parade,"Lot LGC15, Lower Ground Floor, Subang Parade Shopping Centre",perlis,01000,Kangar
+MY098,ZUS Coffee – Arau,"Lot 3A, Jalan Satu, Kompleks Tok Arau, Arau, 02600 Kangar, Perlis.",perlis,02600,Kangar
+MY099,ZUS Coffee – Kangar Jaya,"No 21 (Ground Floor), Jalan Kangar Jaya 14, Jalan Tuanku Syed Putra, Kangar Jaya, 01000 Kangar, Perlis.",perlis,01000,Kangar
+MY100,"ZUS Coffee – Taman Jerai Maju, Gurun","No.14 (GF), Jalan Jerai Maju 2, Taman Jerai Maju 08300 Gurun, Kedah.",kedah,08300,Gurun
+MY101,"ZUS Coffee – Simpang Empat Perdana, Kedah","B-1(Ground Floor), Susuran Lada 1, Simpang 4, Taman Simpang Perdana, 06650 Alor Setar, Kedah.",kedah,06650,Alor Setar
+MY102,"ZUS Coffee DT – SHELL Hutan Kampung, Alor Setar","HSM 20792, PT 9103, HUTAN KAMPUNG, BANDAR ALOR SETAR, 05150 KOTA SETAR, KEDAH",kedah,20792,KOTA SETAR
+MY103,ZUS Coffee – Ampang Business Centre,"Lot TG-1, PT 111, Kompleks Perniagaan Ampang, Lebuhraya Sultanah Bahiyah, 05050 Alor Setar, Kedah",kedah,05050,Alor Setar
+MY104,ZUS Coffee – Central Square,"Lot TR-05 & 06, Centra Square Shopping Centre, 23, Jalan Kampung Baru, 08000 Sungai Petani, Kedah",kedah,08000,Sungai Petani
+MY105,ZUS Coffee – Kulim Central,"Lot GF-14, Kulim Central, Jalan Klc 1, Kampung Keladi, 09000 Kulim, Kedah",kedah,09000,Kulim
+MY106,ZUS Coffee – Amanjaya Mall,"Lot K31 & K32, Lower Ground Floor, Kompleks, Amanjaya, No.1, Jalan Jati 1, 08000 Sungai Petani, Kedah",kedah,08000,Sungai Petani
+MY107,ZUS Coffee – Amanjaya Mall,"Lot K31 & K32, Lower Ground Floor, Kompleks, Amanjaya, No.1, Jalan Jati 1, 08000 Sungai Petani",kedah,08000,Sungai Petani
+MY108,ZUS Coffee – Lagenda Heights,"No 190, Ground Floor, Jalan Legenda 7, Lagenda Heights, 08000 Sungai Petani, Kedah Darul Aman.",kedah,08000,Sungai Petani
+MY109,"ZUS Coffee – CALTEX Cindai Jaya, SP","No 10, Jalan Cindai Jaya 1A, Taman Cindai Jaya, 08000 Sungai Petani, Kedah Darul Aman.",kedah,08000,Sungai Petani
+MY110,ZUS Coffee – Serai Wangi Mall,"Lot 53, No.2500, Lorong Serai Wangi 4/10, Taman Serai Wangi III & IV, 09400, Padang Serai, Kedah Darul Aman",kedah,09400,Padang Serai
+MY111,ZUS Coffee – Langkawi MAHA Tower,"Unit L1A-01, MAHA Tower Langkawi, Kuah, 07000 Langkawi, Kedah",kedah,07000,Langkawi
+MY112,ZUS Coffee – Aman Central,"LG-K28 & K29. Aman Central, 1, Darul Aman Hwy, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah",kedah,05100,Alor Setar
+MY113,ZUS Coffee – Jitra,"Lot 1521-A1, Pantai Halban, Bandar Darulaman Jaya, 06000 Jitra, Kedah Darul Aman.",kedah,06000,Jitra
+MY114,ZUS Coffee – Kuala Ketil,"No 154 (Ground Floor), Persiaran KKCC 3, Kuala Ketil Commercial Centre, 09100 Kuala Ketil, Kedah Darul Aman.",kedah,09100,Kuala Ketil
+MY115,"ZUS Coffee – Medan Putra, Alor Setar","No 210-A (Ground Floor), Medan Putra Seberang, Jalan Putra, 05150 Alor Setar, Kedah Darul Aman",kedah,05150,Alor Setar
+MY116,ZUS Coffee – Changlun,"No 11 (Ground Floor), Lebuhraya Bukit Kayu Hitam, Pekan Changlun 2, 06010 Changlun, Kedah Darul Aman",kedah,06010,Changlun
+MY117,"PEKAN SIMPANG KUALA, ALOR SETAR","No 224-A (Ground Floor) Jln PSK 6, Pekan Simpang Kuala, 05400 Alor Setar, Kedah",kedah,05400,Alor Setar
+MY118,"JALAN BAKAR ARANG, SG PETANI","B8 (Ground Floor), Jalan Bakar Arang, 08000 Sungai Petani, Kedah",kedah,08000,Sungai Petani
+MY119,ZUS Coffee – PKT Logistic Batu Kawan,"No 1, Logistic Boulevard, One Auto Hub, Batu Kawan Industrial Park, 14110 Bandar Cassia, Penang.",penang,14110,Bandar Cassia
+MY120,"ZUS Coffee – Tree Square, Tanjung Bungah","No. 88-G-A05, Jalan Sungai Kelian, 11200 Tanjong Bungah, Penang",penang,11200,Tanjong Bungah
+MY121,ZUS Coffee – Kepala Batas Pokok Sena,"No. 45, (Ground Floor), Persiaran Pokok Sena, Pusat Perniagaan Pokok Sena, 13220 Kepala Batas, Pulau Pinang",penang,13220,Kepala Batas
+MY122,ZUS Coffee – Taman Chai Leng,"No 48, Ground Floor, Lebuh Kurau 3, Taman Chai Leng, 13700 Perai, Pulau Pinang",penang,13700,Perai
+MY123,ZUS Coffee DT – Metrioplace Batu Kawan,"1818-2-2, Jalan Perniagaan Vorteks, Pusat Perniagaan Vorteks, 14100 Simpang Ampat, Penang",penang,14100,Simpang Ampat
+MY124,ZUS Coffee – Queensbay Mall,"Lot LG-17, Queensbay Mall, 100, Persiaran Bayan Indah, 11900 Bayan Lepas, Penang",penang,11900,Bayan Lepas
+MY125,ZUS Coffee – Ferringhi Walk,"72C-G-7 ,Jalan Batu Ferringhi, 11100 Batu Ferringhi, Penang",penang,11100,Batu Ferringhi
+MY126,ZUS Coffee – Komtar Walk,"Lot No. 3 (Ground Floor), Komtar Walk, Jalan Dr Lim Chwee Leong, 10450 George Town, Pulau Pinang",penang,10450,George Town
+MY127,ZUS Coffee – Plaza Gurney,"Lot 170-03-68, Gurney Plaza, Persiaran Gurney, 10250, Penang, Malaysia",penang,10250,Penang
+MY128,ZUS Coffee – Jetty Point Complex,"Lot Zone 2N Lot 9, Kompleks Jetty Point, Persiaran Putera, Kuah, 07000, Langkawi, Kedah",penang,07000,Langkawi
+MY129,ZUS Coffee – CALTEX Bandar Putra Bertam,"2278 (Lot 9588), Jalan Tun Hamdan Sheikh Tahir, Bandar Putra Bertam, 13200 Kepala Batas, Pulau Pinang.",penang,13200,Kepala Batas
+MY130,ZUS Coffee – IKEA Batu Kawan Link Building (Klippa),"LG.07, Lower Ground Floor, IKEA Batu Kawan Link Building, 752, Persiaran Cassia Selatan, 8, Lebuhraya Bandar Cassia, 14110 Simpang Ampat, Penang",penang,14110,Simpang Ampat
+MY131,ZUS Coffee – Botanica Balik Pulau,"No 138 (Ground Floor), Jalan Sungai Air Putih, 11000 Balik Pulau, Pulau Pinang.",penang,11000,Balik Pulau
+MY132,ZUS Coffee – Eco Borealis,"No 29-G, Jalan Borealis 3, Pusat Komersial Borealis, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang.",penang,14110,Simpang Ampat
+MY133,ZUS Coffee – Taman Machang Bubok,"No 235-G, Jalan Machang Bubok 1, Taman Machang Bubok, 14020 Bukit Mertajam, Pulau Pinang.",penang,14020,Bukit Mertajam
+MY134,ZUS Coffee – Iconic Point Simpang Ampat,"No 29-G (Ground Floor), Jalan Iconic Point, Iconic Point Business Park, 14100 Simpang Ampat, Pulau Pinang",penang,14100,Simpang Ampat
+MY135,ZUS Coffee – Jelutong,"No 11-G, Vantage Point, Jalan Lenggong, 11600 Jelutong, Pulau Pinang.",penang,11600,Jelutong
+MY136,"QUEENS WATERFRONT, BAYAN LEPAS","1-G-26, Jalan Bayan Indah, Queens Waterfront Q1, 11900 Bayan Lepas, Penang",penang,11900,Bayan Lepas
+MY137,"MACALISTER, GEORGETOWN","109-B, Jalan Macalister, 10400 George Town, Pulau Pinang",penang,10400,George Town
+MY138,"MAJU UTAMA, PENANG","No 3183 (Ground Floor), Jalan Maju, Pusat Perniagaan Maju Utama, 14000 Bukit Mertajam, Pulau Pinang",penang,14000,Bukit Mertajam
+MY139,"RAJA UDA BUTTERWORTH, PENANG","No 17 (Ground Floor), Pusat Perniagaan Raja Uda, Jalan Raja Uda, Kampung Paya, 12300 Butterworth, Pulau Pinang",penang,12300,Butterworth
+MY140,SUNWAY CARNIVAL MALL,"1F-K17, Sunway Carnival Mall, 3068, Jalan Todak, Pusat Bandar Seberang Jaya, 13700 Seberang Jaya, Pulau Pinang",penang,13700,Seberang Jaya
+MY141,NIBONG TEBAL C-MART,"LOT 72A, 74A, 76A, NO. 3974, Jalan Industri Cenderawasih Kompleks Industri Cenderawasih, LOT 5631, MK 11, 14300 Nibong Tebal, Pulau Pinang",penang,14300,Nibong Tebal
+MY142,"ALMA @ BUKIT MERTAJAM, PENANG","No 13 (Ground Floor), Persiaran Seri Impian, Pusat Perniagaan Mahkota Impian, 14000 Bukit Mertajam, Pulau Pinang",penang,14000,Bukit Mertajam
+MY143,GURNEY PARAGON MALL PENANG,"163-D, Lot LG-03, Lower Ground Floor Gurney Paragon Mall, Persiaran Gurney, 10250 George Town, Pulau Pinang",penang,10250,George Town
+MY144,SEBERANG PERAI,"Unit B1-G-12, Elevate 1, Lorong Pauh Jaya 1/3, Taman Pauh Jaya, 13500 Permatang Pauh, Seberang Perai Tengah",penang,13500,Permatang Pauh
+MY145,BAYAN LEPAS,"01-03, Golden Triangle 2 Commercial Square, Jalan Dato Ismail Hashim, 11900 Bayan Lepas",penang,11900,Bayan Lepas
+MY146,PENANG AYER ITAM,"61-01, Jalan Pisang Embun, 11500 Ayer Itam, Penang",penang,11500,Ayer Itam
+MY147,ZUS Coffee – Tanjung Tokong,"A-G-8, Vantage Desiran, Jalan Desiran Tanjung, 10470 Tanjung Tokong, Pulau Pinang",penang,10470,Tanjung Tokong
+MY148,ZUS Coffee – Bandar Tasek Raja,"Lot 579 (GF) Bandar Tasek Raja 17000 Pasir Mas,Kelantan.",kelantan,17000,Pasir Mas
+MY149,ZUS Coffee – Bandar Tanah Merah,"Pt 461-G Jalan Tasek 17500 Tanah Merah, Kelantan.",kelantan,17500,Tanah Merah
+MY150,ZUS Coffee – Jalan Temenggong,"No. 365-I,Tingkat Bawah,Jalan Temenggong,15000,Kota Bharu,Kelantan",kelantan,15000,Kota Bharu
+MY151,ZUS Coffee – MYDIN Tunjong,"Lot GB-12 & GB-13, Ground Floor Level, Mydin Tunjong, Lot PT 666, Jalan Kuala Krai, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",kelantan,16010,Kota Bharu
+MY152,ZUS Coffee – Kuala Krai,"No 12, Ground Floor, Jalan LF 1, Laman Firdaus, Bandar Baru Kuala Krai 18000 Kuala Krai, Kelantan",kelantan,18000,Kuala Krai
+MY153,"ZUS Coffee – H Elite Design Hotel, Tunjong","AG-G-02 & AG-G-03, Alwaqf @ Tunjong, Jalan Kuala Krai, 16010 Kota Bahru, Kelantan Darul Naim.",kelantan,16010,Kota Bahru
+MY154,ZUS Coffee – KB Mall,"GK-33, 33A, 41 & 42, Ground Floor, KB Mall, 1, Jalan Hamzah, Seksyen 16, 15050 Kota Bharu, Kelantan",kelantan,15050,Kota Bharu
+MY155,ZUS Coffee – AEON Mall Kota Bharu,"S47 & S48B, Second Floor, AEON Mall Kota Bharu, Lembah Sireh, 15050 Kota Bharu, Kelantan",kelantan,15050,Kota Bharu
+MY156,"ZUS Coffee – Kampung Laut, Kuala Terengganu","PT 3632 Tingkat Bawah, Jalan Alam Mutiara 1/1, Alam Mutiara, Jalan Kg Laut, 21100 Kuala Terengganu Terengganu.",terengganu,21100,Kuala Terengganu
+MY157,"ZUS Coffee – Pusat Niaga Paka, Terengganu","49-G, PT 228, Jalan Besar, Pusat Niaga Paka, Kampung Cacar, 23100 Paka, Terengganu.",terengganu,23100,Paka
+MY158,ZUS Coffee – Paya Bunga Square,"PK-02, Aras Bawah, Kompleks Paya Bunga Square, Jalan Masjid Abidin, 20100 Kuala Terengganu",terengganu,20100,Kuala Terengganu
+MY159,ZUS Coffee – Dungun,"Blok A, No.5, Tingkat Bawah, Jalan Besar Sura Gate, KPLK Perniagaan Suria Gate, 23000 Dungun, Terengganu Darul Iman",terengganu,23000,Dungun
+MY160,ZUS Coffee – Jerteh,"Lot 201,Jalan Tuan Hitam, 22000, Jerteh, Terengganu",terengganu,22000,Jerteh
+MY161,ZUS Coffee – Dataran Austin,"PT35394 , Ground Floor, Dataran Austin, Jalan Gong Badak Kg Wakaf Tembesu, 21300, Kuala Terengganu, Terengganu",terengganu,21300,Kuala Terengganu
+MY162,ZUS Coffee – Chukai,"PT 11296 (Ground Floor), Jalan Kubang Kurus, Taman Cukai Utama, 24000 Chukai, Terengganu",terengganu,11296,"(Ground Floor), Jalan Kubang Kurus, Taman Cukai Utama, 24000 Chukai"
+MY163,ZUS Coffee – Kuala Berang,"Lot G-264, Jalan Ajil – Kuala Berang, Kampung Rahmat, 21700 Kuala Berang, Terengganu Darul Iman.",terengganu,21700,Kuala Berang
+MY164,ZUS Coffee – KTCC Mall Kuala Terengganu,"LOT G-17, KTCC Mall, 219, Jalan Sultan Zainal Abidin, 20200 Kuala Terengganu, Terengganu",terengganu,20200,Kuala Terengganu
+MY165,"JALAN PEJABAT, KUALA TERENGGANU","1106, Jalan Pejabat, 20200 Kuala Terengganu, Terengganu",terengganu,20200,Kuala Terengganu
+MY166,ZUS Coffee – Bandar Mentakab,"No.131 (Ground Floor) Jalan Melati 28400 Mentakab, Pahang.",pahang,28400,Mentakab
+MY167,ZUS Coffee – Muadzam Shah,"No. 25-G, Jalan Pms 3 1/1, Taman Perindustrian Muadzam Shah 3, 26700 Muadzam Shah, Pahang Darul Makmur.",pahang,26700,Muadzam Shah
+MY168,ZUS Coffee – SkyAvenue,"Lot No.T2A-39A & 40 of Level T2A, SkyAvenue, Genting Highlands Resort, 69000 Genting Highlands, Pahang",pahang,69000,Genting Highlands
+MY169,ZUS Coffee – CALTEX Simpang Gambang,"Lot 10759, Batu 18, Jalan Gambang, 26300 Kuantan, Pahang",pahang,10759,Kuantan
+MY170,ZUS Coffee – Balok Kuantan,"A23 (Ground Floor), Lorong Balok Darat 13, 26100 Kuantan, Pahang Darul Makmur",pahang,26100,Kuantan
+MY171,ZUS Coffee – Genting 1 (First World),"Lot No.T2A-K03, Level 2, First World Plaza, Genting Highlands Resort, 69000 Genting Highlands, Pahang.",pahang,69000,Genting Highlands
+MY172,Zus Coffee – Bandar Baru Jerantut,"TT6, Tingkat 1, Jalan Dulang 1, Bandar Baru, 27000 Jerantut, Pahang.",pahang,27000,Jerantut
+MY173,ZUS Coffee – Kuala Lipis PP Barry,"No 13 (Ground & Mezzanine Floor), Jalan Pusat Perniagaan Barry, Pusat Perniagaan Barry @ Kuala Lipis, 27200 Kuala Lipis, Pahang Darul Makmur.",pahang,27200,Kuala Lipis
+MY174,ZUS Coffee – East Coast Mall,"L2-39. East Coast Mall. Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang.",pahang,25200,Kuantan
+MY175,ZUS Coffee – Jengka,"K-08 (Ground Floor), Lorong TARBP 6, Tun Abdul Razak Business Park, 26400 Bandar Pusat Jengka, Pahang Darul Makmur.",pahang,26400,Bandar Pusat Jengka
+MY176,"INDERA MAHKOTA 7, KUANTAN","B4-G, Jalan IM 7/5, Bandar Indera Mahkota, 25200 Kuantan, Pahang",pahang,25200,Kuantan
+MY177,CAMERON CENTRUM,"A-G-11, Presint 1 Cameron Centrum, 39100 Brinchang, Pahang",pahang,39100,Brinchang
+MY178,"JLN BESERAH, KUANTAN","B-298 (Ground Floor), Jalan Beserah, 25300 Kuantan, Pahang",pahang,25300,Kuantan
+MY179,TEMERLOH,"No 53 (Ground Floor, Jln Ahmad Shah 1, Pusat Komersil, 28000 Temerloh, Pahang",pahang,28000,Temerloh
+MY180,RAUB,"No 28 (Ground Floor), Pusat Perniagaan Raub, 27600 Raub, Pahang",pahang,27600,Raub
+MY181,BENTONG,"29, Jalan Loke Yew, 28700 Bentong, Pahang",pahang,28700,Bentong
+MY182,ZUS Coffee – Holiday Inn Express Hotel Jalan Raja Chulan,"Lot G01, Ground Floor, 84, Jalan Raja Chulan, Kuala Lumpur, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",kuala-lumpur-selangor,50200,Kuala Lumpur
+MY183,ZUS Coffee – MSU Medical Centre,"Lot A01 (Ground Floor), MSU Medical Centre, University Drive, Off Persiaran Olahraga, Seksyen 13, 40100 Shah Alam, Selangor.",kuala-lumpur-selangor,40100,Shah Alam
+MY184,ZUS Coffee – Bandar Teknologi Kajang,"No. G-8 (Ground Floor), Jalan 1/2, HILLPARK RESIDENCE, Seksyen 1 Bandar Teknologi Kajang, 43500 Semenyih, Selangor",kuala-lumpur-selangor,43500,Semenyih
+MY185,ZUS Coffee – Menara VSQ Petaling Jaya,"B03, Ground Floor, VSQ@PJ City Centre, Jalan Utara, 46200 Petaling Jaya, Selangor",kuala-lumpur-selangor,46200,Petaling Jaya
+MY186,ZUS Coffee – Damansara Damai,"L-013 (Ground Floor), Vista Shop, Jalan PJU 10/2A, Damansara Damai,47830 Petaling Jaya, Selangor",kuala-lumpur-selangor,47830,Petaling Jaya
+MY187,ZUS Coffee – AEON Mall Cheras Selatan,"KF3 & KF5, First Floor, Aeon Mall Cheras, Selatan, Jalan Cheras Perdana Cheras, 43200, Balakong, Selangor",kuala-lumpur-selangor,43200,Balakong
+MY188,"ZUS Coffee – Setia Prima, Setia Alam","8-1-2 (Ground Floor), Jalan Setia Prima P U13/P, Setia Alam, 40170 Shah Alam, Selangor",kuala-lumpur-selangor,40170,Shah Alam
+MY189,ZUS Coffee – The Glenz @Glenmarie,"G-3B (Ground Floor), Subplace Boulevard Pusat Kormersil Vestland, No.6, Jalan Juruanalisis U1/35, Seksyen U1, 40150 Shah Alam, Selangor Darul Ehsan",kuala-lumpur-selangor,40150,Shah Alam
+MY190,ZUS Coffee – Puchong Utama,"A-G-9 (Ground Floor), Block A, Dataran Puchong, Jalan PU 7/1, Taman Puchong Utama, 47140 Puchong, Selangor",kuala-lumpur-selangor,47140,Puchong
+MY191,ZUS Coffee – Sunway Pyramid,"Lot LG2.37, Level LG2, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",kuala-lumpur-selangor,47500,Petaling Jaya
+MY192,ZUS Coffee – Setapak Central Mall,"GK-08, Ground Floor, 67, Jln Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur, Wilayah Persekutuan",kuala-lumpur-selangor,53300,Kuala Lumpur
+MY193,ZUS Coffee – The Exchange TRX,"Lot C.98.0, The Exchange TRX, Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan",kuala-lumpur-selangor,55188,Kuala Lumpur
+MY194,ZUS Coffee – Taman Sri Manja,"No.25, Jalan PJS 3/46, Taman Sri Manja, 46000 Petaling Jaya",kuala-lumpur-selangor,46000,Petaling Jaya
+MY195,ZUS Coffee – Eco Grandeur,"No 18-G (Ground Floor), Jalan Eco Grandeur 1/9A, Eco Granduer, 42300, Bandar Puncak Alam, Selangor",kuala-lumpur-selangor,42300,Bandar Puncak Alam
+MY196,ZUS Coffee – Jaya Shopping Centre,"Lot G-01, Jaya Shopping Centre, Jalan 14/17, Seksyen 14, 46100 Petaling Jaya, Selangor",kuala-lumpur-selangor,46100,Petaling Jaya
+MY197,ZUS Coffee – Eco Majestic Semenyih,"Lot 47-1, Jalan Eco Majestic 10/1A, 43500 Semenyih, Selangor.",kuala-lumpur-selangor,43500,Semenyih
+MY198,"ZUS Coffee – Gateway@KLIA2 (Departure Hall, Level 3)","Lot L3-44A, Level 3, gateway@KLIA2, Lbh KLIA, 43900 KLIA, Selangor",kuala-lumpur-selangor,43900,KLIA
+MY199,"ZUS Coffee – Gateway@KLIA2 (Arrival Hall, Level 2)","Lot No. L2-90B, Level 2, gateway@KLIA2, Lbh KLIA, 43900 Klia, Selangor",kuala-lumpur-selangor,43900,Klia
+MY200,ZUS Coffee – Taipan USJ,"No. 9 (Ground Floor), Jalan USJ 10/1E, Taipan Business Centre, 47620, Subang Jaya, Selangor",kuala-lumpur-selangor,47620,Subang Jaya
+MY201,ZUS Coffee – Sunway Velocity Mall,"Lot 1-22, First Floor, Lingkaran SV2, Sunway Velocity Mall, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",kuala-lumpur-selangor,55100,Kuala Lumpur
+MY202,ZUS Coffee – Sapura Lot 91 KLCC,"Lot C-17, Level Concourse, Permata Sapura, Kuala Lumpur City Centre, 50088 Kuala Lumpur.",kuala-lumpur-selangor,50088,Kuala Lumpur
+MY203,"ZUS Coffee – Taman Myra Meranti, Puchong","No. 8A (Ground Floor), Jalan MM4, Taman Myra Meranti, 47120 Puchong, Selangor Darul Ehsan",kuala-lumpur-selangor,47120,Puchong
+MY204,ZUS Coffee – OUG Parklane,"A1-0-12 (Ground Floor), OUG Parklane, Jalan 1/152, Taman OUG Parklane, 58200 Kuala Lumpur",kuala-lumpur-selangor,58200,Kuala Lumpur
+MY205,ZUS Coffee – Centro Mall,"Lot GK105, Ground Floor, Centro Mall, 8, Jalan Batu Tiga Lama, Kawasan 16, 41300 Klang, Selangor",kuala-lumpur-selangor,41300,Klang
+MY206,ZUS Coffee – Lotus’s Klang,"Lot GK14. KS 6, 3, Jalan Batu Nilam 6, Bandar Bukit Tinggi 1, 41200 Klang, Selangor.",kuala-lumpur-selangor,41200,Klang
+MY207,ZUS Coffee – Pavilion Damansara Heights,"Lot 2.13.01. Level 2. No. 3, Jalan Damanlela, Pavilion Damansara Heights 50490 Kuala Lumpur.",kuala-lumpur-selangor,50490,Kuala Lumpur
+MY208,ZUS Coffee – Shaftsbury Square,"Level P1-23, Lot 2350, Shaftsbury Square, Cyber 6, 63000 Cyberjaya, Selangor",kuala-lumpur-selangor,63000,Cyberjaya
+MY209,ZUS Coffee – SS2,"No.5, Jalan SS2/67, SS2, 47300 Petaling Jaya, Selangor",kuala-lumpur-selangor,47300,Petaling Jaya
+MY210,ZUS Coffee – Sunway Velocity Two,"Lot VS1-G-01, Sunway Velocity Two, Jalan Peel, Seksyen 90, 55100 Wilayah Persekutuan Kuala Lumpur.",kuala-lumpur-selangor,55100,Kuala Lumpur
+MY211,ZUS Coffee – Kidzania Kuala Lumpur,"Curve NX, Jalan PJU 7/5, Mutiara, Damansara 47810 Petaling Jaya, Selangor",kuala-lumpur-selangor,47810,Petaling Jaya
+MY212,ZUS Coffee – Seventeen Mall,"998, Jalan 17/38, Seksyen 17, 46400 Petaling Jaya, Selangor",kuala-lumpur-selangor,46400,Petaling Jaya
+MY213,ZUS Coffee – SHELL Cyberjaya Autoville,"Stesen Minyak Shell Autoville, Persiaran Mutilmedia, Cyber 10, 63000, Cyberjaya, Selangor",kuala-lumpur-selangor,63000,Cyberjaya
+MY214,ZUS Coffee – Cybersouth Dengkil,"No 35-G, Jalan PP 1/1, Park Place 1, Cybersouth, 43800 Dengkil, Selangor",kuala-lumpur-selangor,43800,Dengkil
+MY215,ZUS Coffee – UCSI University KL,"Lot 6, Block G, Ground Floor, UCSI University, No. 1, Jalan Menara Gading, UCSI Heights (Taman Connaught), 56000 Cheras, Kuala Lumpur.",kuala-lumpur-selangor,56000,Cheras
+MY216,ZUS Coffee – Avenue K,"Lot C-6, Level Concourse, Avenue K, 156 Jalan Ampang, 50450 Kuala Lumpur.",kuala-lumpur-selangor,50450,Kuala Lumpur
+MY217,ZUS Coffee – Centrepoint Bandar Utama,"LOT F103, First Floor, Centrepoint Bandar Utama, 3, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",kuala-lumpur-selangor,47800,Petaling Jaya
+MY218,ZUS Coffee – Setiawangsa,"No 30-G (G-Floor), Jalan Setiawangsa 10 (10/55A), Taman Setiawangsa, 54200, WP Kuala Lumpur",kuala-lumpur-selangor,54200,Kuala Lumpur
+MY219,ZUS Coffee – Sungei Wang Plaza,"Lot PK-5, Sungei Wang Plaza, Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",kuala-lumpur-selangor,55100,Kuala Lumpur
+MY220,ZUS Coffee – Universiti Kebangsaan Malaysia (Bangunan Pusanika),"Aras Satu, Bangunan Pusanika, Universiti Kebangsaan Malaysia, 43600 Bangi, Malaysia",kuala-lumpur-selangor,43600,Bangi
+MY221,"ZUS Coffee – Tower 8, Horizon 2, Bangsar South","Office 2, Ground Floor, Tower 8, Bangsar South City, Jalan Kerinchi, Kuala Lumpur.",kuala-lumpur-selangor,59200,Kuala Lumpur
+MY222,ZUS Coffee – Eco Sky,"G-30, Eco Sky, No. 972, Batu 6 1/2, Jalan Ipoh, 68100, Kuala Lumpur",kuala-lumpur-selangor,68100,Kuala Lumpur
+MY223,ZUS Coffee – Berjaya Times Square,"Berjaya Times Square, Lot LG-18C-03A, 1, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",kuala-lumpur-selangor,55100,Kuala Lumpur
+MY224,ZUS Coffee – Alamanda Putrajaya,"Lot G22, Ground Floor. Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya.",kuala-lumpur-selangor,62000,Putrajaya
+MY225,ZUS Coffee – INTI International College Subang,"Cafeteria Level 1, Block B, INTI International College Subang Campus, No 3, Jalan SS15/8, 47500 Subang Jaya, Selangor.",kuala-lumpur-selangor,47500,Subang Jaya
+MY226,ZUS Coffee – Bandar Country Homes Rawang,"No. G-16, Avia Plus, Jalan Desa Utama, Bandar Country Home, 48000 Rawang, Selangor",kuala-lumpur-selangor,48000,Rawang
+MY227,ZUS Coffee – Melawati Mall,"Lot L1-K1, Melawati Mall, Jalan Bandar 12, Taman Melawati, 53100 Kuala Lumpur, Selangor",kuala-lumpur-selangor,53100,Kuala Lumpur
+MY228,ZUS Coffee – IOI Boulevard,"B-G-13A (Ground Floor), IOI Boulevard, Jalan Kenari 5, Bandar Puchong Jaya, 47100 Puchong, Selangor.",kuala-lumpur-selangor,47100,Puchong
+MY229,ZUS Coffee – Pekan Meru,"195, Jalan Meru Batu 6 1/2, Pekan Meru, 41050 Klang, Selangor",kuala-lumpur-selangor,41050,Klang
+MY230,ZUS Coffee – Desa Petaling,"29, Jalan 3/125D, Desa Petaling 57100 Kuala Lumpur",kuala-lumpur-selangor,57100,Kuala Lumpur
+MY231,ZUS Coffee – Jade Hills Kajang,"No 54-1, Jalan Dataran Jade 6, Dataran Jade, Jade Hills, 43000 Kajang, Selangor",kuala-lumpur-selangor,43000,Kajang
+MY232,ZUS Coffee – Bandar Tasik Puteri,"No 82-G-A, Ground Floor, Jalan 7A/2, Bandar Tasik Puteri, 48000 Rawang, Selangor",kuala-lumpur-selangor,48000,Rawang
+MY233,ZUS Coffee – Bandar Sunway,"No 27 (Ground Floor), Jalan PJS 11/28b, Sunway Metro Bandar Sunway, 46150 Petaling Jaya, Selangor",kuala-lumpur-selangor,46150,Petaling Jaya
+MY234,ZUS Coffee – Cheras Leisure Mall,"Lot L1-24, Leisure Mall, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",kuala-lumpur-selangor,56100,Kuala Lumpur
+MY235,ZUS Coffee – Pearl Point Shopping Mall,"LOT F-25. Menara Pearl Point 2 No. 2A, Jalan Sepadu, Off, Jln Klang Lama, 58200 Kuala Lumpur.",kuala-lumpur-selangor,58200,Kuala Lumpur
+MY236,ZUS Coffee – Empire Shopping Gallery,"LK-07, Level Lower Ground, Empire Shopping Gallery, Jalan SS16/1, 47500 Subang Jaya, Selangor Darul Ehsan",kuala-lumpur-selangor,47500,Subang Jaya
+MY237,ZUS Coffee – CALTEX Sungai Choh,"PT 20499 (Lot 1493), Kampung Stesen, Sungai Buaya, 48000 Sungai Choh, Selangor Darul Ehsan.",kuala-lumpur-selangor,20499,Sungai Choh
+MY238,ZUS Coffee – Teluk Pulai,"No.198 (Ground floor), Jalan Teluk Pulai, 41000 Klang, Selangor",kuala-lumpur-selangor,41000,Klang
+MY239,ZUS Coffee – PJ New Town,"10 (Ground Floor), Jalan 52/18, PJ New Town, 46200 Petaling Jaya, Selangor",kuala-lumpur-selangor,46200,Petaling Jaya
+MY240,ZUS Coffee – KSL Esplanade Mall,"LOT G053A, Ground Floor, No 2, Jalan Langat KS9, Bandar Bestari, 42500 Klang, Selangor",kuala-lumpur-selangor,42500,Klang
+MY241,ZUS Coffee – Da Men Mall,"LG-25, Lower ground. 1, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor.",kuala-lumpur-selangor,47600,Subang Jaya
+MY242,ZUS Coffee – PD Waterfront,"Kedai 2 (Glass House), PD Waterfront, 1-02-1, Persiaran Waterfront, 1st Mile, 71000 Port Dickson, Negeri Sembilan",negeri-sembilan,71000,Port Dickson
+MY243,ZUS Coffee – Mesamall Nilai,"Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan",negeri-sembilan,71800,Nilai
+MY244,ZUS Coffee – Pusat Bandar Putra Nilai,"PT 12172 (Ground Floor), Jalan BBN 1/1F, Putra Nilai, 71800 Nilai, Negeri Sembilan.",negeri-sembilan,12172,Nilai
+MY245,ZUS Coffee – Gemas,"PT 4633-G, Ground Floor, Jalan Pekan Gemas, Pekan Gemas, 73400 Gemas, Negeri Sembilan",negeri-sembilan,73400,Gemas
+MY246,ZUS Coffee – Lotus’s Nilai,"Lot G 41. 1, Jalan BBN 1/3, Putra Point, 71800 Nilai, Negeri Sembilan.",negeri-sembilan,71800,Nilai
+MY247,ZUS Coffee – Seremban Prima Mall,"Lot G11, Ground Floor, Jalan Dato Bandar Tunggal, 70000 Seremban, Negeri Sembilan.",negeri-sembilan,70000,Seremban
+MY248,ZUS Coffee – Sunggala Gateway,"No 7-G (Ground Floor), Jalan PDS 2, PD Sunggala Gateway, Teluk Kemang, 71050 Port Dickson, Negeri Sembilan.",negeri-sembilan,71050,Port Dickson
+MY249,BANDAR ENSTEK,"No 31 (Ground Floor), 1A, Jalan Timur 6, Timur@Enstek, 71760 Bandar Baru Enstek, Negeri Sembilan",negeri-sembilan,71760,Bandar Baru Enstek
+MY250,TAMPIN,"No 14 (Ground Floor), Jalan Besar, 73000 Tampin, Negeri Sembilan",negeri-sembilan,73000,Tampin
+MY251,BANDAR PRIMA SENAWANG,"No. 91-G, Jalan BPS5, Bandar Prima Senawang, 70450 Seremban, Negeri Sembilan",negeri-sembilan,70450,Seremban
+MY252,"CENTRIO SQUARE, SEREMBAN 2","Pusat Dagangan, 126-G, Jln S2 B21, Seremban 2, 70300 Seremban, Negeri Sembilan",negeri-sembilan,70300,Seremban
+MY253,PALM MALL SEREMBAN,"UG-29, Palm Mall, Jalan Sungai Ujong, 70200 Seremban, Negeri Sembilan Darul Khursus.",negeri-sembilan,70200,Seremban
+MY254,ZUS Coffee – Aeropod Commercial Square,"No. B-1-3 (Ground Floor), Aeropod Commercial Square, Jalan Aeropod, Off Jalan Kepayan, Sabah",sabah,88300,Kota Kinabalu
+MY255,ZUS Coffee – Benoni Commercial Centre,"Lot 90, Ground Floor, Benoni Commercial Centre, Jalan Papar Spur, 89600 Papar Sabah",sabah,89600,Papar
+MY256,ZUS Coffee – City Mall Kota Kinabalu,"M-0-77 (S05), Ground Floor, Jln Lintas, 88300 Kota Kinabalu, Sabah",sabah,88300,Kota Kinabalu
+MY257,ZUS Coffee – Solaris Tuaran,"Lot No. 48, Ground Floor, Block F, Solaris Tuaran 89200 Tuaran, Sabah",sabah,89200,Tuaran
+MY258,"ZUS Coffee – Plaza 22, Papar","No.51, Ground Floor, Block H, Plaza 22, Jln Pengalat Lok Kawi, 89600 Papar, Sabah",sabah,89600,Papar
+MY259,ZUS Coffee – Kingfisher Plaza,"No. 9-0, Ground Floor, Block D, Lorong Plaza Kingfisher 4, Plaza Kingfisher, 88450 Kota Kinabalu, Sabah",sabah,88450,Kota Kinabalu
+MY260,ZUS Coffee – Imago Shopping Mall,"G-51. Imago Shopping Mall, KK Times Square, Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah.",sabah,88100,Kota Kinabalu
+MY261,ZUS Coffee – Suria Sabah Shopping Mall,"Kiosk-LG-K8, Lower Ground Floor, Jalan Tun Fuad Stephens, 88000 Kota Kinabalu, Sabah, Malaysia",sabah,88000,Kota Kinabalu
+MY262,ZUS Coffee – Lintas Plaza,"No 30-0 (Ground Floor), Phase 2C, Lorong Lintas Plaza, Lintas Plaza, 88300 Kota Kinabalu, Sabah.",sabah,88300,Kota Kinabalu
+MY263,ZUS Coffee – EG Mall Inanam,"Lot G6, K9 & K10, EG Mall Inanam, No 6, Lot 28, Taman Perindustrian Bukit Emas, Mile 7 1/2, Jalan Tuaran, 88400 Kota Kinabalu, Sabah.",sabah,88400,Kota Kinabalu
+MY264,ZUS Coffee – Plaza 333,"Lot 42-0 (Ground Floor), Block E, Lorong Plaza 333-6, Plaza 333, Kobusak Commercial Centre, 88500 Kota Kinabalu, Sabah.",sabah,88500,Kota Kinabalu
+MY265,ZUS Coffee – ITCC Penampang,"Lot G-16 (Ground Floor), ITCC Shopping Mall, Jalan Pintas Penampang, 89500 Penampang, Sabah",sabah,89500,Penampang
+MY266,ZUS Coffee – Plaza Merdeka Kuching,"No. G-01, Ground Floor, Plaza Merdeka Shopping Centre, 88 Pearl Street, 93000 Kuching, Sarawak, Malaysia",sarawak,93000,Kuching
+MY267,"ZUS Coffee – The Northbank, Kuching","Ground Floor, PL 18 / SL 4082, Lot 3146, Block 12, Muara Tebas Land District",sarawak,93350,Kuching
+MY268,ZUS Coffee – Galacity Kuching,"Sub Lot 80, Ground Floor, Galacity Kuching, alan Datuk Tawi Sli 3rd Exchange Commercial Centre, 93250 Kuching, Sarawak",sarawak,93250,Kuching
+MY269,ZUS Coffee – The Hills Kuching,"Shop 22, Lower Ground Floor, The Hills, Interhill Place, 8, Jalan Bukit Mata Kuching, 93100 Kuching, Sarawak",sarawak,93100,Kuching
+MY270,ZUS Coffee – MetroMall @ Metrocity Square,"Sublot No. 8, Ground Floor, MetroMall @ Metrocity Square, Survey Lot 13767 Section 6, Kuching Town Land District Metrocity Sqaure Boutique Shops",sarawak,13767,Section 6
+MY271,ZUS Coffee – The Summer Shopping Mall,"Ground Floor, Island Kiosk, The Summer Shopping Mall, Lot 7455, Block 1, Jln Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak",sarawak,94300,Kota Samarahan
+MY272,ZUS Coffee – Aeon Mall Kuching Central,"Lot KS4, Level 2, AEON Mall Kuching Central, Jln Tun Datuk Patinggi Haji Ahmad Zaidi Adruce, Min Chu Garden, 93200 Kuching, Sarawak",sarawak,93200,Kuching
+MY273,ZUS Coffee – Vivacity Megamall,"Lot L3-K006, Vivacity Megamall, Jalan Wan Alwi, 93350 Kuching, Sarawak",sarawak,93350,Kuching

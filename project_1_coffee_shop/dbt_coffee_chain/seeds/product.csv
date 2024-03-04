@@ -1,0 +1,90 @@
+no,product_id,product_name,product_price
+0,PD001,CEO LattÃ©,RM 9.90
+1,PD002,Spanish LattÃ©,RM 11.95
+2,PD003,ZUS Gula Melaka,RM 11.50
+3,PD004,Japanese Genmaicha LattÃ©,RM 11.95
+4,PD005,Thunder,RM 10.90
+5,PD006,Iced Shaken Double Espresso,RM 11.90
+6,PD007,Vietnamese Spanish Latte,RM 11.90
+7,PD008,Caramel Cream Frappe,RM 15.50
+8,PD009,Double Chocolate Chip Frappe,RM 15.50
+9,PD010,Salted Caramel Frappe,RM 15.50
+10,PD011,Cocoa Mocha Frappe,RM 15.50
+11,PD012,Java Chip Frappe,RM 15.50
+12,PD013,Japanese Matcha Frappe,RM 15.50
+13,PD014,Espresso Frappe,RM 15.50
+14,PD015,Strawberry Chocolate Chip Almond Milk Frappe,RM 15.50
+15,PD016,Mango Peach Coconut Slushie,RM 13.90
+16,PD017,Snowy Coconut Frappe,RM 15.50
+17,PD018,Caramel Macchiato,RM 11.75
+18,PD019,CafÃ© LattÃ©,RM 10.50
+19,PD020,Cappuccino,RM 10.75
+20,PD021,Americano,RM 7.90
+21,PD022,Hot Flat White,RM 10.75
+22,PD023,French Vanilla LattÃ©,RM 11.95
+23,PD024,Roasted Hazelnut LattÃ©,RM 11.95
+24,PD025,Salted Caramel LattÃ©,RM 11.95
+25,PD026,CafÃ© Mocha,RM 13.85
+26,PD027,ZUS Cocoa Mocha,RM 13.85
+27,PD028,Green Tea LattÃ©,RM 10.50
+28,PD029,Chamomile Tea,RM 7.90
+29,PD030,White Vanilla Grapefruit Tea,RM 7.90
+30,PD031,Earl Grey Supreme Tea,RM 7.90
+31,PD032,Australian Chocolate,RM 13.60
+32,PD033,Roasted Hazelnut Chocolate,RM 13.85
+33,PD034,French Vanilla Chocolate,RM 13.85
+34,PD035,Salted Caramel Chocolate,RM 13.85
+35,PD036,ZUS Signature Chocolate,RM 13.85
+36,PD037,Fish (1pc),RM 6.40
+37,PD038,Chicken (2pc),RM 6.90
+38,PD039,Chicken (1pc) & Fish (1pc),RM 8.20
+39,PD040,Chicken (3pc),RM 7.90
+40,PD041,Fish (2pc),RM 8.40
+41,PD042,Chicken (2pc) & Spicy Shrimp (2pc),RM 8.40
+42,PD043,Dory (2pc),RM 8.70
+43,PD044,Fish & Shrimp (2pc),RM 7.90
+44,PD045,ZUS Signature Chicken Lasagna,RM 14.60
+45,PD046,Korean Mac & Cheese,RM 13.90
+46,PD047,Classic Mac & Cheese,RM 13.90
+47,PD048,Spaghetti Bolognese,RM 12.50
+48,PD049,Grilled Cajun Chicken,RM 8.70
+49,PD050,Grilled Dory with Chilli Crab sauce,RM 9.00
+50,PD051,Grilled Salmon with Teriyaki sauce,RM 9.70
+51,PD052,"Dory, Chicken(2pc) & Shrimp (2pc)",RM 10.00
+52,PD053,"Fish, Chicken (2pc) & Shrimp (2pc)",RM 10.00
+53,PD054,Double Chocolate Muffin,RM 8.40
+54,PD055,Banana Walnut Muffin,RM 8.40
+55,PD056,Nacho cheese sauce,RM 2.00
+56,PD057,Chili Crab sauce,RM 2.00
+57,PD058,Spicy Teriyaki sauce,RM 2.00
+58,PD059,Caribbean Spices,RM 1.40
+59,PD060,Chocolate Fudge Cake,RM 14.50
+60,PD061,Pandan Burnt Cheese Cake,RM 14.50
+61,PD062,Summer Berries Cheese Cake,RM 14.50
+62,PD063,Chocolate Roll,RM 9.50
+63,PD064,Firecracker Chicken Sausage Roll,RM 11.90
+64,PD065,Mushroom Chicken Deluxe,RM 11.90
+65,PD066,Chicken Slice & Cheese Croissant,RM 11.90
+66,PD067,Apple Latice,RM 6.40
+67,PD068,Chocolate Donut,RM 4.68
+68,PD069,Strawberry Donut,RM 4.68
+69,PD070,Creamy Mango,RM 9.81
+70,PD071,Zus Lemonade,RM 7.74
+71,PD072,Honey Latte,RM 8.37
+72,PD073,Babycino,RM 7.74
+73,PD074,ZERO LattÃ©,RM 12.85
+74,PD075,Keto Black,RM 10.75
+75,PD076,ZERO FrappÃ©,RM 15.50
+76,PD077,Cafe LattÃ© (1Ltr),RM 24.40
+77,PD078,Americano (1Ltr),RM 19.90
+78,PD079,Spanish LattÃ© (1Ltr),RM 29.40
+79,PD080,Vietnamese Spanish Latte,RM 11.95
+80,PD081,Vietnamecano,RM 10.90
+81,PD082,Vietnamese Coconut Coffee Frappe,RM 13.90
+82,PD083,Viet-Cha Latte,RM 11.95
+83,PD084,ZUS Mineral Water,RM 4.20
+84,PD085,For The Love Of Fruits,RM 9.90
+85,PD086,Oh My Orange â€œZUSâ€,RM 9.90
+86,PD087,Wonderbrew Kombucha Original Flavor,RM 12.90
+87,PD088,Wonderbrew Lite Green,RM 12.90
+88,PD089,Wonderbrew Purple Pari Pari,RM 12.90
