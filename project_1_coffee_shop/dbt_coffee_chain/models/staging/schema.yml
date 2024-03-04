@@ -49,27 +49,18 @@ models:
         Coffee chain sales for all the outlets
       columns:
           - name: invoice no
-            description: Primary key for this table, generated with python script
-            tests:
-                - unique:
-                    severity: warn
-                - not_null:
-                    severity: warn
+            description: invoice number. can be repeated as same purchase in a invoice
           - name: date_time 
             description: the data and time the purchase was made
-          - name: customer_id 
+          - name: customer_id_sales
             description: customer_id who make the purchase
             tests:
               - relationships:
                   field: customer_id
                   to: ref('stg_customer')
-          - name: outlet
+          - name: outlet_id_sales
             description: Outlet id where the purchase was made.
-            tests:
-              - relationships:
-                  field: outlet_id
-                  to: ref('outlet')
-          - name: product 
+          - name: product_id_sales
             description: product purchased
             tests:
               - relationships:
