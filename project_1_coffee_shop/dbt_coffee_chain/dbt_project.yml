@@ -44,8 +44,6 @@ models:
       materialized: table
 
 seeds:
-  malaysian_coffee_chain:
-    malaysian_cofee:
       outlet:
           +column_types:
               no: numeric
