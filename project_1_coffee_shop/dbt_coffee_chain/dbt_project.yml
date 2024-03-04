@@ -44,21 +44,20 @@ models:
       materialized: table
 
 seeds:
-    malaysian_coffee_chain:
-        outlet:
-            +column_types:
-              no: numeric
-              outlet_id: string
-              outlet_name: string
-              outlet_address: string
-              outlet_state: string
-              postcode: numeric
-              district: string
-        product:
-            +column_types:
-              no: numeric
-              product_id: string
-              product_name:: string
-              product_price: string
+  malaysian_coffee_chain:
+    outlet:
+      +column_types: 
+        outlet_id: string
+        outlet_name: string
+        outlet_address: string
+        outlet_state: string
+        postcode: numeric
+        district: string
+    product:
+      +column_types:
+        # no: numeric
+        product_id: string
+        product_name:: string
+        product_price: string
 vars:
   is_test_run: false 
