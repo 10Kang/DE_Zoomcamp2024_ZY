@@ -8,3 +8,4 @@ SELECT
   month AS month,
   EXTRACT(YEAR FROM date_time) AS year,
 from {{ source('staging','sales') }}
+WHERE invoice_no is NOT NULL
