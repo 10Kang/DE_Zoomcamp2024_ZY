@@ -1,23 +1,12 @@
 version: 2
 
 models:
-  - name: fact_salse
+  - name: fact_sales
     description: >
       Sales record with customer 
-  - name: fact_trips
+  - name: state_revenue
     description: >
-      Taxi trips corresponding to both service zones (Green and yellow).
-      The table contains records where both pickup and dropoff locations are valid and known zones. 
-      Each record corresponds to a trip uniquely identified by tripid. 
-      
-  - name: dm_monthly_zone_revenue
+      Revenue of sales by states
+  - name: age_group_purchase
     description: >
-      Aggregated table of all taxi trips corresponding to both service zones (Green and yellow) per pickup zone, month and service.
-      The table contains monthly sums of the fare elements used to calculate the monthly revenue. 
-      The table contains also monthly indicators like number of trips, and average trip distance. 
-    columns:
-      - name: revenue_monthly_total_amount
-        description: Monthly sum of the the total_amount of the fare charged for the trip per pickup zone, month and service.
-        tests:
-            - not_null:
-                severity: error
+      purchase by age group and product type
