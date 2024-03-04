@@ -36,7 +36,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 
 models:
-  malaysian_coffee:
+  malaysian_coffee_chain:
     # Applies to all files under models/example/
     staging:
       materialized: view
@@ -44,7 +44,7 @@ models:
       materialized: table
 
 seeds:
-  malaysian_coffee:
+  malaysian_coffee_chain:
     outlet:
         +column_types:
             no: numeric
