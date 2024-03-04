@@ -15,7 +15,7 @@ profile: 'default'
 model-paths: ["models"]
 analysis-paths: ["analyses"]
 test-paths: ["tests"]
-seed-paths: ["seeds"]
+seed-paths: ["seeds/malaysian_coffee"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
@@ -45,7 +45,7 @@ models:
 
 seeds:
   malaysian_coffee_chain:
-    outlet:
+    malaysian_coffee/outlet:
         +column_types:
             no: numeric
             outlet_id: string
@@ -54,7 +54,7 @@ seeds:
             outlet_state: string
             postcode: numeric
             district: string
-    product:
+    malaysian_coffee/product:
         +column_types:
               no: numeric
               product_id: string
