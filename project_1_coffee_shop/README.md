@@ -2,40 +2,24 @@
 
 ![](./images/malaysian_coffee_logo.jpg)
 
-## Generating the data needed 👨🏻‍💻
+## Overview of the Project: Batch Processing 
 
-![](./images/data_model.png)
+![](./images/Overview_project.jpg)
 
-Overall, the data model look like figure above which made up of four major tables, the customers, sales, products and outlet with its own unique keys. All the data can be generated via the python script in `./data_generation/` directory. Specifically, the  [`generate_outlet.py`](./data_generation/generate_outlet.py) and [`generate_outlet.py`](./data_generation/generate_outlet.py) are the script that scrap the data of Malaysian first tech driven coffee chain called [ZUS coffee, Malaysia](https://zuscoffee.com/menu/). 
+“A NECESSITY, NOT A LUXURY” , has been the tagline for the Malaysia home grown tech coffee chain named ZUS coffee since 2019, growing rapidly across the nations with total of 4+ millions cups of coffee sold to date through their own mobile application. It’s absolutely a great success with tons of effort putting in by their employee. In regards, it really struck my interest to have the sales data on their coffee chain as it will probably a great dataset for data engineering project. Hence, the whole project started with web scarping of their existing outlet and products whilst generating fake sales data using python modules. The overall workflow is illustrated as figure above. 
 
-The scraping of data can be run in terminal with python installed
 
-```{Python}
+* For web scraping and data generation, check out [data_generation](./data_generation/) folder.
+* For setting up resources in Google Cloud Platform, check out [terraform](./terraform/) folder.
+* For setting up the data orchestration tools in google compute engine, download docker engine for ubuntu, follow the instrution from the official docker documentation [here](https://docs.docker.com/engine/install/ubuntu/) prior installing the mage.ai tools. 
+* For data modelling using dbt cloud, check out the [dbt_coffee_chain](./dbt_coffee_chain) folder. 
 
-# to scrap the product name and price
-python data_generation/generate_product.py --output /path/to/destination
+## Dashboard for monitoring sales
 
-```
+![](./images/dashboard_01.png)
 
-```{Python}
+The first dashboard was built to visualise the total revenue and item sold by outlets in each state of Malaysia (upper panel). The dropdown menu allows user customise their own desired location and generate the associated graph. The lower panel is then the pre-liminary analysis of the overal purchase done by customers based on their age groups. It could be potentially used for the product development and targetted marketing for different departtments.
 
-# to scrap the outlet name and address
-python data_generation/generate_outlet.py --output /path/to/destination
+![](./images/dashboard_02.png)
 
-```
-
-Next, we generate the customer database by specifying number of records and seeds to make sure not replication. All the records here are fake and for project purpose.
-
-```{python}
-
-python data_generation/generate_customer_database.py --seed 10 --output /path/to/destination/ --number 500000 --date_string "2024-02-24"
-
-```
-
-To prepare the sales data, we first need to get outlet, product and customer data ready prior running the `generate_coffee_order.py` file in `./data_generation/` as they referencing the other 3 tables.  All the records here are fake and for project purpose.
-
-```{python}
-
-python data_generation/generate_coffee_order.py --seed 10 --output /path/to/destination/ --number 650000 --date_string "2024-02-24"
-
-```     
+The second dashboard is the details of items sold for each outlet with customized period. It will be useful for generating monthly report and identify the favorite products for certain outlet, potentially help in supply chain management to stock up the right products and cutting down product wastage.  
