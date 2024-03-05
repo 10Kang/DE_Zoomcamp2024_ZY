@@ -57,14 +57,20 @@ To prepare the sales data, we first need to get outlet, product and customer dat
     --date_string "2024-01-01" 
     --output ~/data/sales/ 
     --outlet_id_path ~/data/outlet.csv 
-    --customer_id_path ~/data/customer/_customer_data_2024-02-24.csv 
+    --customer_id_path ~/data/customer/customer_data_2024-02-24.csv 
     --product_id_path ~/data/product.csv
 ```     
 
 ## Copy to the GCS
 
-The generated file is then uploaded to GCS as raw_file
+The generated file is then uploaded to GCS as raw_file. You can also tuned it to upload the file directly into GCS using with credentials set in the python script.
 
 ```
 gsutil cp file.csv gs://bucket/files
 ```
+
+## Important Notes
+
+The address of the outlet from data scraping might lake of information. It is manually corrected as uploaded into bucket while doing the data modelling using dbt.
+
+You may check the outlet information at [dbt_coffee_chain](../dbt_coffee_chain/seeds/outlet.csv) folder. 

@@ -66,7 +66,7 @@ def main(params):
         date_string = params.date_string
         
     # filepath to save file 
-    filepath = f'{output}_customer_data_{date_string}.csv'
+    filepath = f'{output}customer_data_{date_string}.csv'
 
     df = generate_customer_data(number,seed)
 

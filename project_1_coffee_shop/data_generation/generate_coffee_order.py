@@ -75,7 +75,7 @@ def main(params):
         date_string = params.date_string
         
     # filepath to save file 
-    filepath = f'{output}_sales_data_{date_string}.csv'
+    filepath = f'{output}sales_data_{date_string}.csv'
 
     df = generate_sales(number,seed,outlet_id_path,product_id_path,customer_id_path)
 
