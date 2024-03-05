@@ -1,0 +1,13 @@
+__py_cache__
+.file_versions
+.ssh_tunnel
+charts
+dbt
+extensions
+interactions
+scratchpads
+utils
+__init__.py
+io_config.yaml
+# metadata.yaml
+pipelines
