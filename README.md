@@ -47,4 +47,8 @@ The [DE Zoomcamp cohort 2024](https://github.com/DataTalksClub/data-engineering-
 
   - [How to Run Spark on Ubuntu Machine in Google Cloud (PySpark: Basic) 🚀](https://medium.com/@kangzhiyong1999/how-to-run-spark-on-ubuntu-machine-in-google-cloud-pyspark-basic-24e277083d5a)
   - [Understand the Spark Cluster: Spark DataFrame and Spark SQL with PySpark 🚀](https://medium.com/@kangzhiyong1999/understand-the-spark-cluster-spark-dataframe-and-spark-sql-with-pyspark-efab224fd1e6)
-  - To be continued .....
+* [Workshop 2: Stream Processing with RisingWave 🌊](./workshop_2_risingwave/)
+
+  - A SQL streaming database
+  - Check out medium article by me below
+  - [Restructure the Stream Processing With RisingWave 🌊](https://medium.com/@kangzhiyong1999/restructure-the-stream-processing-with-risingwave-ef04fb440fce)
